@@ -1,2 +1,4 @@
-# TF2KerasMNIST
-Simple MNIST Neural Network
+# TF2 Keras MNIST
+
+Simple MNIST Neural Network Tutorial
+
